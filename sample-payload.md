@@ -1,4 +1,4 @@
-# TV SHOW
+## TV Show
 
 ```
 [payload] => {
@@ -8,7 +8,7 @@
    "Account": {
       "id": 1,
       "thumb": "https://plex.tv/users/1022b120ffbaa/avatar?c=1465525047",
-      "title": "elan"
+      "title": "tacoded"
    },
    "Server": {
       "title": "Office",
@@ -40,7 +40,7 @@
     "grandparentTitle": "Bluey",
     "parentTitle": "Season 3",
     "contentRating": "TV-Y",
-    "summary": "While waiting to be picked up from school, Jack plays at being a sailor trying to find his way back home to Australia. Meanwhile, Jack's Dad has got lost on route to collect him.",
+    "summary": "While waiting to be picked up from school, Jack plays at being a sailor trying to find his way.",
     "index": 15,
     "parentIndex": 3,
     "audienceRating": 8.5,
@@ -150,59 +150,6 @@
         "tag": "Nani Thomann",
         "tagKey": "61c08f8df8583ce7c4e7d13a",
         "role": "Backpackers (voice)"
-      },
-      {
-        "id": 204086,
-        "filter": "actor=204086",
-        "tag": "Brice Pennetair",
-        "tagKey": "61c08f8da3ab099d50a24259",
-        "role": "Backpackers (voice)"
-      },
-      {
-        "id": 204072,
-        "filter": "actor=204072",
-        "tag": "Shauna Corrigan",
-        "tagKey": "61c08f8d8810917dfd02383c",
-        "role": "Sat Nav (voice)"
-      },
-      {
-        "id": 204073,
-        "filter": "actor=204073",
-        "tag": "Jane Hall",
-        "tagKey": "5d7768305af944001f1f8c9c",
-        "role": "Rusty's Mum (voice)",
-        "thumb": "https://metadata-static.plex.tv/people/5d7768305af944001f1f8c9c.jpg"
-      },
-      {
-        "id": 204076,
-        "filter": "actor=204076",
-        "tag": "Sean Choolburra",
-        "tagKey": "601832fea93172002c0204c8",
-        "role": "Maynard (voice)"
-      },
-      {
-        "id": 204063,
-        "filter": "actor=204063",
-        "tag": "Hamish Blake",
-        "tagKey": "5d776972ad5437001f75d3d4",
-        "role": "Jack's Dad (voice)",
-        "thumb": "https://metadata-static.plex.tv/3/people/3b13838cc653bd1a4e0088c2ef9fce51.jpg"
-      },
-      {
-        "id": 204052,
-        "filter": "actor=204052",
-        "tag": "Megan Washington",
-        "tagKey": "5d776980ad5437001f75ef27",
-        "role": "Calypso (voice)",
-        "thumb": "https://metadata-static.plex.tv/0/people/0bed140528c39b4a000de867c86c9039.jpg"
-      },
-      {
-        "id": 204059,
-        "filter": "actor=204059",
-        "tag": "Leigh Sales",
-        "tagKey": "5d7770b231d95e001f1a7af3",
-        "role": "Bella (voice)",
-        "thumb": "https://metadata-static.plex.tv/2/people/2813696d0a72796411063a90ec4d48b3.jpg"
       }
     ],
     "Producer": [
@@ -217,7 +164,7 @@
 }
 ```
 
-# MOVIE
+## Movie
 
 ```
 [payload] => {
@@ -227,7 +174,7 @@
   "Account": {
       "id": 1,
       "thumb": "https://plex.tv/users/1022b120ffbaa/avatar?c=1465525047",
-      "title": "elan"
+      "title": "tacoded"
    },
    "Server": {
       "title": "Office",
@@ -253,7 +200,7 @@
     "librarySectionKey": "/library/sections/1",
     "contentRating": "PG",
     "contentRatingAge": 10,
-    "summary": "The true story of Homer Hickam, a coal miner's son who was inspired by the first Sputnik launch to take up rocketry against his father's wishes.",
+    "summary": "The true story of Homer Hickam, a coal miner's son who was inspired by Sputnik.",
     "rating": 9,
     "audienceRating": 8.8,
     "viewOffset": 4355000,
@@ -442,364 +389,6 @@
         "tagKey": "5d77682585719b001f3a052e",
         "role": "Elsie Hickam",
         "thumb": "https://metadata-static.plex.tv/people/5d77682585719b001f3a052e.jpg"
-      },
-      {
-        "id": 231742,
-        "filter": "actor=231742",
-        "tag": "Ilya Baskin",
-        "tagKey": "5d7768268a7581001f12bdaf",
-        "role": "Ike Bykovsky",
-        "thumb": "https://metadata-static.plex.tv/e/people/efad70cabbf5c4d3d5087dbfbd11cbc3.jpg"
-      },
-      {
-        "id": 28365,
-        "filter": "actor=28365",
-        "tag": "Chris Ellis",
-        "tagKey": "5d776825151a60001f24a3ed",
-        "count": 3,
-        "role": "Principal Turner",
-        "thumb": "https://metadata-static.plex.tv/6/people/6190d491b1e88c54c05ca7ea955bc889.jpg"
-      },
-      {
-        "id": 116977,
-        "filter": "actor=116977",
-        "tag": "Scott Thomas",
-        "tagKey": "5f401ccf02101b0040f42ec1",
-        "role": "Jim Hickam",
-        "thumb": "https://metadata-static.plex.tv/1/people/1df767e50c484179d28bbd6f743baf60.jpg"
-      },
-      {
-        "id": 68960,
-        "filter": "actor=68960",
-        "tag": "Randy Stripling",
-        "tagKey": "5d77685a999c64001ec3409a",
-        "role": "Leon Bolden",
-        "thumb": "https://metadata-static.plex.tv/d/people/dae0d5206924bc836b79e5505a7130f9.jpg"
-      },
-      {
-        "id": 68961,
-        "filter": "actor=68961",
-        "tag": "Courtney Cole-Fendley",
-        "tagKey": "5d7769b37a53e9001e6edefa",
-        "role": "Dorothy Platt",
-        "thumb": "https://metadata-static.plex.tv/d/people/d1e9175f7b7220753065444a00bbda16.jpg"
-      },
-      {
-        "id": 71735,
-        "filter": "actor=71735",
-        "tag": "David Dwyer",
-        "tagKey": "62fb7cb811c447f39c7f57b1",
-        "role": "Jake Mosby",
-        "thumb": "https://metadata-static.plex.tv/5/people/5be359bfdb7acef551c08ab2a8b0cf9a.jpg"
-      },
-      {
-        "id": 68963,
-        "filter": "actor=68963",
-        "tag": "Terry Loughlin",
-        "tagKey": "5d77682a880197001ec91622",
-        "role": "Mr. Dantzler"
-      },
-      {
-        "id": 68964,
-        "filter": "actor=68964",
-        "tag": "Kaili Hollister",
-        "tagKey": "5d7768c0d11dd3002022a6eb",
-        "role": "Valentine Carmina",
-        "thumb": "https://metadata-static.plex.tv/e/people/e0456bbb50305fe9b68a28fd8a97e66b.jpg"
-      },
-      {
-        "id": 68965,
-        "filter": "actor=68965",
-        "tag": "David Copeland",
-        "tagKey": "5fea7d5c734f0a002e54b298",
-        "role": "Coach Gainer"
-      },
-      {
-        "id": 68966,
-        "filter": "actor=68966",
-        "tag": "Don Henderson Baker",
-        "tagKey": "5d776838880197001ec94080",
-        "role": "Jensen",
-        "thumb": "https://metadata-static.plex.tv/people/5d776838880197001ec94080.jpg"
-      },
-      {
-        "id": 68967,
-        "filter": "actor=68967",
-        "tag": "Tom Kagy",
-        "tagKey": "5d77683661141d001fb15ad0",
-        "role": "Lenny"
-      },
-      {
-        "id": 68968,
-        "filter": "actor=68968",
-        "tag": "Donald Thorne",
-        "tagKey": "5fecda7239d122002d7c54fc",
-        "role": "Trooper One"
-      },
-      {
-        "id": 68969,
-        "filter": "actor=68969",
-        "tag": "Justin Whitsett",
-        "tagKey": "5fecda7239d122002d7c54fd",
-        "role": "Kid"
-      },
-      {
-        "id": 68970,
-        "filter": "actor=68970",
-        "tag": "Larry Rue",
-        "tagKey": "5fecda7239d122002d7c54fe",
-        "role": "Neighbor"
-      },
-      {
-        "id": 31609,
-        "filter": "actor=31609",
-        "tag": "Neva Howell",
-        "tagKey": "5d776bc0ad5437001f7a902d",
-        "count": 2,
-        "role": "Neighbor",
-        "thumb": "https://metadata-static.plex.tv/f/people/fbfa21787dc982841fbd4655954990fd.jpg"
-      },
-      {
-        "id": 68971,
-        "filter": "actor=68971",
-        "tag": "Terry Nienhuis",
-        "tagKey": "5d7768a0f617c9002015649d",
-        "role": "Neighbor"
-      },
-      {
-        "id": 68972,
-        "filter": "actor=68972",
-        "tag": "Brady Coleman",
-        "tagKey": "5d77682a6f4521001ea99e95",
-        "role": "Anderson",
-        "thumb": "https://metadata-static.plex.tv/2/people/2085cd3c7ed0cfa4e3074983db53cfa6.jpg"
-      },
-      {
-        "id": 68973,
-        "filter": "actor=68973",
-        "tag": "Rick Forrester",
-        "tagKey": "5d77682eeb5d26001f1df58e",
-        "role": "Roper",
-        "thumb": "https://metadata-static.plex.tv/people/5d77682eeb5d26001f1df58e.jpg"
-      },
-      {
-        "id": 68974,
-        "filter": "actor=68974",
-        "tag": "Terrence Gibney",
-        "tagKey": "5d77684f103a2d001f56d0dc",
-        "role": "Basil Thorpe",
-        "thumb": "https://metadata-static.plex.tv/people/5d77684f103a2d001f56d0dc.jpg"
-      },
-      {
-        "id": 68975,
-        "filter": "actor=68975",
-        "tag": "Doug Swander",
-        "tagKey": "5d776835a091de001f2e7e97",
-        "role": "Corvette Guy"
-      },
-      {
-        "id": 68976,
-        "filter": "actor=68976",
-        "tag": "Keeli Hale Kimbro",
-        "tagKey": "5fecda7239d122002d7c54ff",
-        "role": "Corvette Girl"
-      },
-      {
-        "id": 68977,
-        "filter": "actor=68977",
-        "tag": "Mark Jeffrey Miller",
-        "tagKey": "5d7768294de0ee001fcc9345",
-        "role": "Vernon",
-        "thumb": "https://metadata-static.plex.tv/people/5d7768294de0ee001fcc9345.jpg"
-      },
-      {
-        "id": 68978,
-        "filter": "actor=68978",
-        "tag": "Blaque Fowler",
-        "tagKey": "5d776b20ad5437001f79415d",
-        "role": "Reverend",
-        "thumb": "https://metadata-static.plex.tv/1/people/18c77d5aa5b9ec2e270cacb309554f64.jpg"
-      },
-      {
-        "id": 107556,
-        "filter": "actor=107556",
-        "tag": "Don Tilley",
-        "tagKey": "5d776870374a5b001fec589e",
-        "role": "Rescue Worker"
-      },
-      {
-        "id": 68980,
-        "filter": "actor=68980",
-        "tag": "Rockford Davis",
-        "tagKey": "5fecda7239d122002d7c5500",
-        "role": "Chemistry Teacher"
-      },
-      {
-        "id": 68981,
-        "filter": "actor=68981",
-        "tag": "John Bennes",
-        "tagKey": "5d7768334de0ee001fccaec6",
-        "role": "Doctor",
-        "thumb": "https://metadata-static.plex.tv/people/5d7768334de0ee001fccaec6.jpg"
-      },
-      {
-        "id": 68982,
-        "filter": "actor=68982",
-        "tag": "Jonathan Fawbush",
-        "tagKey": "5fecda7239d122002d7c5501",
-        "role": "Barney"
-      },
-      {
-        "id": 68983,
-        "filter": "actor=68983",
-        "tag": "Larry Black",
-        "tagKey": "5d776999594b2b001e6a4c1f",
-        "role": "Fred Smith"
-      },
-      {
-        "id": 68984,
-        "filter": "actor=68984",
-        "tag": "Frank Schuler",
-        "tagKey": "5d7768b27a53e9001e6d6896",
-        "role": "Moonshiner"
-      },
-      {
-        "id": 68985,
-        "filter": "actor=68985",
-        "tag": "Tommy Smeltzer",
-        "tagKey": "5d77682c61141d001fb1425a",
-        "role": "Man at Mine",
-        "thumb": "https://metadata-static.plex.tv/people/5d77682c61141d001fb1425a.jpg"
-      },
-      {
-        "id": 68986,
-        "filter": "actor=68986",
-        "tag": "Charles Lawlor",
-        "tagKey": "5d7768645af944001f201b95",
-        "role": "Miner",
-        "thumb": "https://metadata-static.plex.tv/f/people/fa4493918d997eba5dc2f0a28a5de7c4.jpg"
-      },
-      {
-        "id": 68987,
-        "filter": "actor=68987",
-        "tag": "Tom Turbiville",
-        "tagKey": "5d77683561141d001fb15885",
-        "role": "Miner"
-      },
-      {
-        "id": 68988,
-        "filter": "actor=68988",
-        "tag": "Ida Ginn",
-        "tagKey": "5fecda7239d122002d7c5502",
-        "role": "Quentin's Mom"
-      },
-      {
-        "id": 68989,
-        "filter": "actor=68989",
-        "tag": "Richard Lumpkin",
-        "tagKey": "5fecda7239d122002d7c5503",
-        "role": "Judge at Welch"
-      },
-      {
-        "id": 68990,
-        "filter": "actor=68990",
-        "tag": "Mark W. Johnson",
-        "tagKey": "5d77682a880197001ec9161e",
-        "role": "Union Official"
-      },
-      {
-        "id": 68991,
-        "filter": "actor=68991",
-        "tag": "Don Taylor",
-        "tagKey": "5edbadf5c88dd90042d4c010",
-        "role": "Union Official"
-      },
-      {
-        "id": 68992,
-        "filter": "actor=68992",
-        "tag": "Don G. Campbell",
-        "tagKey": "5fecda7239d122002d7c5504",
-        "role": "Mr. Morris"
-      },
-      {
-        "id": 68993,
-        "filter": "actor=68993",
-        "tag": "Liz Byler",
-        "tagKey": "5d7768ccfb0d55001f519e53",
-        "role": "Ivy League Girl"
-      },
-      {
-        "id": 68994,
-        "filter": "actor=68994",
-        "tag": "Bradford Ryan Lund",
-        "tagKey": "5fea7d5c8bd635002d61f0b1",
-        "role": "Ivy League Boy"
-      },
-      {
-        "id": 68995,
-        "filter": "actor=68995",
-        "tag": "Frank Hoyt Taylor",
-        "tagKey": "5d77682585719b001f3a0542",
-        "role": "Judge at Indy",
-        "thumb": "https://metadata-static.plex.tv/2/people/2aa6406f8fda3e2c5dc5e52944937014.jpg"
-      },
-      {
-        "id": 68996,
-        "filter": "actor=68996",
-        "tag": "Dave Hager",
-        "tagKey": "5d7768273c3c2a001fbcb20f",
-        "role": "Head Judge",
-        "thumb": "https://metadata-static.plex.tv/8/people/825f892cfc4f3b35baee76108c91051b.jpg"
-      },
-      {
-        "id": 68997,
-        "filter": "actor=68997",
-        "tag": "Ray Elder",
-        "tagKey": "5fea7d5d52ecdc002ddb0494",
-        "role": "Tom Webster"
-      },
-      {
-        "id": 68998,
-        "filter": "actor=68998",
-        "tag": "Andy Stahl",
-        "tagKey": "5d7768294de0ee001fcc9300",
-        "role": "Jack Palmer",
-        "thumb": "https://metadata-static.plex.tv/people/5d7768294de0ee001fcc9300.jpg"
-      },
-      {
-        "id": 68999,
-        "filter": "actor=68999",
-        "tag": "Joe Digaetano",
-        "tagKey": "5ddba91670c0b60021f66237",
-        "role": "Wernher Von Braun"
-      },
-      {
-        "id": 69000,
-        "filter": "actor=69000",
-        "tag": "Thomas Taylor",
-        "tagKey": "5fecda7239d122002d7c5505",
-        "role": "Miner in Elevator"
-      },
-      {
-        "id": 69001,
-        "filter": "actor=69001",
-        "tag": "David Ducey",
-        "tagKey": "5fecda7239d122002d7c5506",
-        "role": "Man in Crowd"
-      },
-      {
-        "id": 69002,
-        "filter": "actor=69002",
-        "tag": "Jenny Patterson",
-        "tagKey": "5fecda7239d122002d7c5507",
-        "role": "Nurse"
-      },
-      {
-        "id": 241044,
-        "filter": "actor=241044",
-        "tag": "O. Winston Link",
-        "tagKey": "5d7770b231d95e001f1a7a93",
-        "role": "Locomotive Engineer"
       }
     ],
     "Producer": [
@@ -834,7 +423,7 @@
   }
 }
 ```
-# MUSIC
+## Music Track
 ```
 [payload] => {  
    "event": "media.play",
@@ -843,7 +432,7 @@
    "Account": {
       "id": 1,
       "thumb": "https://plex.tv/users/1022b120ffbaa/avatar?c=1465525047",
-      "title": "elan"
+      "title": "tacoded"
    },
    "Server": {
       "title": "Office",
@@ -861,7 +450,7 @@
       "key": "/library/metadata/1936545",
       "parentRatingKey": "1936544",
       "grandparentRatingKey": "1936543",
-      "guid": "com.plexapp.agents.plexmusic://gracenote/track/7572499-91016293BE6BF7F1AB2F848F736E74E5/7572500-3CBAE310D4F3E66C285E104A1458B272?lang=en",
+      "guid": "com.plexapp.agents.plexmusic://gracenote/track/7572499?lang=en",
       "librarySectionID": 1224,
       "type": "track",
       "title": "Love The One You're With",
